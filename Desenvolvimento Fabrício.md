@@ -104,7 +104,8 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 - [x] Dar carga do histórico existente
 - [ ] Botão para passar como sugestãoa de melhoria
 - [ ] Botão de copiar no atendimento para contar 
-- [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondidoa automaticamente.
+- [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
+
 
 ## Correção de Anúncio
 **Ações:**
@@ -116,10 +117,14 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 
 ## Incompatibilidade
 
+## Inventário
+- [ ] Confirmar exclusão do registro
+- [ ] Opção de editar
+
 ## Configurações
 - [x] Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTg0ODg2OSwtMTgzMTI2MjExNSwxMT
-kyOTY2NDM4LDYyNzc2OTA3OCwtMjA5ODI4MTA2NiwtMTAxMTI4
-NzY3Ml19
+eyJoaXN0b3J5IjpbNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4Mz
+EyNjIxMTUsMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEw
+NjYsLTEwMTEyODc2NzJdfQ==
 -->
