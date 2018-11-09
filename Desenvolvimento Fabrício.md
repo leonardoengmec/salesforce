@@ -104,12 +104,13 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 - [x] Dar carga do histórico existente
 - [ ] Botão para passar como sugestãoa de melhoria
 - [ ] Botão de copiar no atendimento para contar 
-- [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser r
+- [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondidoa automaticamente.
 
 ## Correção de Anúncio
-- Enviar para vendas
-- Enviar para GCA
-- Enviar para GA
+**Ações:**
+> Enviar para vendas
+> Enviar para GCA
+> Enviar para GA
 
 - Dispara e-mail quando entrar uma solicitação.
 
@@ -118,7 +119,7 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 ## Configurações
 - Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ4NDE3NjYsLTE4MzEyNjIxMTUsMT
-E5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEy
-ODc2NzJdfQ==
+eyJoaXN0b3J5IjpbOTM2Njc2OTk3LC0xODMxMjYyMTE1LDExOT
+I5NjY0MzgsNjI3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3
+NjcyXX0=
 -->
