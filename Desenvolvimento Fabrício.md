@@ -99,10 +99,10 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 **API Shopping de preço:** http://192.99.185.73:8071/swagger/ui/index#!/Anuncio/Anuncio_Listar
 
 ## Perguntas
-- Inserir nota na resposta
-- Inserir tela de inventário para colaborador responsável limpar o histório
+- [ ] Inserir nota na resposta :question:
+- [x] Inserir tela de inventário para colaborador responsável limpar o histório
 - [x] Dar carga do histórico existente
-- [x] 
+- [ ] Botão para passar como sugestãoa de melhoria
 
 ## Correção de Anúncio
 - Enviar para vendas
@@ -116,6 +116,6 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 ## Configurações
 - Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NjA4MTQ1LDYyNzc2OTA3OCwtMjA5OD
-I4MTA2NiwtMTAxMTI4NzY3Ml19
+eyJoaXN0b3J5IjpbMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOT
+gyODEwNjYsLTEwMTEyODc2NzJdfQ==
 -->
