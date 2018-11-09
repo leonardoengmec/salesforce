@@ -102,6 +102,7 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 - Inserir nota na resposta
 - Inserir tela de inventário para colaborador responsável limpar o histório
 - [x] Dar carga do histórico existente
+- [x] 
 
 ## Correção de Anúncio
 - Enviar para vendas
@@ -115,6 +116,6 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 ## Configurações
 - Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMD
-ExMjg3NjcyXX0=
+eyJoaXN0b3J5IjpbMzE3NjA4MTQ1LDYyNzc2OTA3OCwtMjA5OD
+I4MTA2NiwtMTAxMTI4NzY3Ml19
 -->
