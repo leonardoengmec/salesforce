@@ -112,14 +112,14 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 > Enviar para GCA
 > Enviar para GA
 
-- Dispara e-mail quando entrar uma solicitação.
+- Disparar e-mail quando entrar uma solicitação.
 
 ## Incompatibilidade
 
 ## Configurações
-- Cadastro e atualização do e-mail do líder de vendas.
+- [x] Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2Njc2OTk3LC0xODMxMjYyMTE1LDExOT
-I5NjY0MzgsNjI3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3
-NjcyXX0=
+eyJoaXN0b3J5IjpbLTk0OTg0ODg2OSwtMTgzMTI2MjExNSwxMT
+kyOTY2NDM4LDYyNzc2OTA3OCwtMjA5ODI4MTA2NiwtMTAxMTI4
+NzY3Ml19
 -->
