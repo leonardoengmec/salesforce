@@ -104,6 +104,7 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 - [x] Dar carga do histórico existente
 - [ ] Botão para passar como sugestãoa de melhoria
 - [ ] Botão de copiar no atendimento para contar 
+- [ ] Ao 
 
 ## Correção de Anúncio
 - Enviar para vendas
@@ -117,6 +118,7 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 ## Configurações
 - Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEyNjIxMTUsMTE5Mjk2NjQzOCw2Mj
-c3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEyODc2NzJdfQ==
+eyJoaXN0b3J5IjpbNTc3Njc0NDQwLC0xODMxMjYyMTE1LDExOT
+I5NjY0MzgsNjI3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3
+NjcyXX0=
 -->
