@@ -108,6 +108,7 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 - [ ] Banco de dados - trazer para consulta
 
 ## Correção de Anúncio
+Quando atendimento criar solicitação, criar com o responsável = vendas.
 **Ações:**
 > Enviar para vendas
 > Enviar para GCA
@@ -124,7 +125,8 @@ Melhorar a comunicação entre o atendimento e o comercial desenvolvendo uma apl
 ## Configurações
 - [x] Cadastro e atualização do e-mail do líder de vendas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODUyNDkwMiw2MzMwOTIzNjAsLTk0OT
-g0ODg2OSwtMTgzMTI2MjExNSwxMTkyOTY2NDM4LDYyNzc2OTA3
-OCwtMjA5ODI4MTA2NiwtMTAxMTI4NzY3Ml19
+eyJoaXN0b3J5IjpbLTQyODA5MjkxNSwtMzc4NTI0OTAyLDYzMz
+A5MjM2MCwtOTQ5ODQ4ODY5LC0xODMxMjYyMTE1LDExOTI5NjY0
+MzgsNjI3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3NjcyXX
+0=
 -->
