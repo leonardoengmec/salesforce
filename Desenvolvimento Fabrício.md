@@ -133,9 +133,12 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [ ] Botão de copiar no atendimento para contar 
 - [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
 - [ ] Banco de dados - trazer para consulta
+
+pedido
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjAxMjQ1OSwtODM1NDU3Nzk1LC03OT
-M2ODM3MTIsLTQyODA5MjkxNSwtMzc4NTI0OTAyLDYzMzA5MjM2
-MCwtOTQ5ODQ4ODY5LC0xODMxMjYyMTE1LDExOTI5NjY0MzgsNj
-I3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3NjcyXX0=
+eyJoaXN0b3J5IjpbMTkwMjU5ODIyMCwtNTUyMDEyNDU5LC04Mz
+U0NTc3OTUsLTc5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNzg1MjQ5
+MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIxMTUsMT
+E5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEy
+ODc2NzJdfQ==
 -->
