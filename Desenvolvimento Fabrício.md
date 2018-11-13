@@ -125,12 +125,15 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 ## Configurações
 - [x] Cadastro e atualização do e-mail do líder de vendas.
 
-## Demandas
+## Demandas Restantes
+- [ ] Paginar inventário de respostas
 - [ ] Editar perguntas e respostas, inventário e incompatibilidade
 - [ ] Disparar e-mail quando entrar uma solicitação de correção e incompatibilidade
-- [ ]  
+- [ ] Botão de copiar no atendimento para contar 
+- [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
+- [ ] Banco de dados - trazer para consulta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzI5MzI5NSwtNDI4MDkyOTE1LC0zNz
+eyJoaXN0b3J5IjpbLTc5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNz
 g1MjQ5MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIx
 MTUsMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLT
 EwMTEyODc2NzJdfQ==
