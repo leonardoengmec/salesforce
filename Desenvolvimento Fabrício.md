@@ -127,14 +127,15 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 
 ## Demandas Restantes
 - [x] Paginar inventário de respostas
+- [x] Editar status da pergunta de anuncio (aguardando vendas)
 - [ ] Editar perguntas e respostas, inventário e incompatibilidade
 - [ ] Disparar e-mail quando entrar uma solicitação de correção e incompatibilidade
 - [ ] Botão de copiar no atendimento para contar 
 - [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
 - [ ] Banco de dados - trazer para consulta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MDg0MTM2LC03OTM2ODM3MTIsLTQyOD
-A5MjkxNSwtMzc4NTI0OTAyLDYzMzA5MjM2MCwtOTQ5ODQ4ODY5
-LC0xODMxMjYyMTE1LDExOTI5NjY0MzgsNjI3NzY5MDc4LC0yMD
-k4MjgxMDY2LC0xMDExMjg3NjcyXX0=
+eyJoaXN0b3J5IjpbLTgzNTQ1Nzc5NSwtNzkzNjgzNzEyLC00Mj
+gwOTI5MTUsLTM3ODUyNDkwMiw2MzMwOTIzNjAsLTk0OTg0ODg2
+OSwtMTgzMTI2MjExNSwxMTkyOTY2NDM4LDYyNzc2OTA3OCwtMj
+A5ODI4MTA2NiwtMTAxMTI4NzY3Ml19
 -->
