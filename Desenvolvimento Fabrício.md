@@ -119,14 +119,19 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 ## Incompatibilidade
 
 ## Inventário
-- [ ] Confirmar exclusão do registro
+- [x] Confirmar exclusão do registro
 - [ ] Opção de editar
 
 ## Configurações
 - [x] Cadastro e atualização do e-mail do líder de vendas.
+
+## Demandas
+- [ ] Editar perguntas e respostas, inventário e incompatibilidade
+- [ ] Disparar e-mail quando entrar uma solicitação de correção e incompatibilidade
+- [ ]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODA5MjkxNSwtMzc4NTI0OTAyLDYzMz
-A5MjM2MCwtOTQ5ODQ4ODY5LC0xODMxMjYyMTE1LDExOTI5NjY0
-MzgsNjI3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3NjcyXX
-0=
+eyJoaXN0b3J5IjpbMTgwMzI5MzI5NSwtNDI4MDkyOTE1LC0zNz
+g1MjQ5MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIx
+MTUsMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLT
+EwMTEyODc2NzJdfQ==
 -->
