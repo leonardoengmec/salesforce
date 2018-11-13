@@ -135,10 +135,16 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [ ] Banco de dados - trazer para consulta
 
 pedido
+codigoProdutoInserir
+nomeProdutoInserir
+categoriaInserir
+linkAnuncio
+canal
+textoPergunta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjU5ODIyMCwtNTUyMDEyNDU5LC04Mz
-U0NTc3OTUsLTc5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNzg1MjQ5
-MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIxMTUsMT
-E5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEy
-ODc2NzJdfQ==
+eyJoaXN0b3J5IjpbNzMwNTI5MDY1LC01NTIwMTI0NTksLTgzNT
+Q1Nzc5NSwtNzkzNjgzNzEyLC00MjgwOTI5MTUsLTM3ODUyNDkw
+Miw2MzMwOTIzNjAsLTk0OTg0ODg2OSwtMTgzMTI2MjExNSwxMT
+kyOTY2NDM4LDYyNzc2OTA3OCwtMjA5ODI4MTA2NiwtMTAxMTI4
+NzY3Ml19
 -->
