@@ -130,16 +130,17 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [x] Editar status da pergunta de anuncio (aguardando vendas)
 - [x] Editar perguntas e respostas, inventário e incompatibilidade
 - [ ] Disparar e-mail quando entrar uma solicitação de correção e incompatibilidade
-- [ ] Botão de copiar no atendimento para contar 
+- [x] Botão de copiar no atendimento para contar 
 - [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
 - [x] Banco de dados - trazer para consulta
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTg4MjM3NywtMTM5MzAyODk5NywtMT
-g1ODgxMzEwNywxMjcwNDUwMjMwLDgyMjk4ODc2Niw4OTgxMTI4
-MjksNzMwNTI5MDY1LC01NTIwMTI0NTksLTgzNTQ1Nzc5NSwtNz
-kzNjgzNzEyLC00MjgwOTI5MTUsLTM3ODUyNDkwMiw2MzMwOTIz
-NjAsLTk0OTg0ODg2OSwtMTgzMTI2MjExNSwxMTkyOTY2NDM4LD
-YyNzc2OTA3OCwtMjA5ODI4MTA2NiwtMTAxMTI4NzY3Ml19
+eyJoaXN0b3J5IjpbLTE5OTE0NTk2NjMsLTEzOTMwMjg5OTcsLT
+E4NTg4MTMxMDcsMTI3MDQ1MDIzMCw4MjI5ODg3NjYsODk4MTEy
+ODI5LDczMDUyOTA2NSwtNTUyMDEyNDU5LC04MzU0NTc3OTUsLT
+c5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNzg1MjQ5MDIsNjMzMDky
+MzYwLC05NDk4NDg4NjksLTE4MzEyNjIxMTUsMTE5Mjk2NjQzOC
+w2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEyODc2NzJdfQ==
+
 -->
