@@ -132,13 +132,14 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [ ] Disparar e-mail quando entrar uma solicitação de correção e incompatibilidade
 - [ ] Botão de copiar no atendimento para contar 
 - [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
-- [ ] Banco de dados - trazer para consulta
+- [x] Banco de dados - trazer para consulta
 
 tabelaResultadoPesquisar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyOTg4NzY2LDg5ODExMjgyOSw3MzA1Mj
-kwNjUsLTU1MjAxMjQ1OSwtODM1NDU3Nzk1LC03OTM2ODM3MTIs
-LTQyODA5MjkxNSwtMzc4NTI0OTAyLDYzMzA5MjM2MCwtOTQ5OD
-Q4ODY5LC0xODMxMjYyMTE1LDExOTI5NjY0MzgsNjI3NzY5MDc4
-LC0yMDk4MjgxMDY2LC0xMDExMjg3NjcyXX0=
+eyJoaXN0b3J5IjpbMTI3MDQ1MDIzMCw4MjI5ODg3NjYsODk4MT
+EyODI5LDczMDUyOTA2NSwtNTUyMDEyNDU5LC04MzU0NTc3OTUs
+LTc5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNzg1MjQ5MDIsNjMzMD
+kyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIxMTUsMTE5Mjk2NjQz
+OCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEyODc2NzJdfQ
+==
 -->
