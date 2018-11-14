@@ -135,11 +135,13 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [x] Banco de dados - trazer para consulta
 
 tabelaResultadoPesquisar
+
+textoCopiado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDQ1MDIzMCw4MjI5ODg3NjYsODk4MT
-EyODI5LDczMDUyOTA2NSwtNTUyMDEyNDU5LC04MzU0NTc3OTUs
-LTc5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNzg1MjQ5MDIsNjMzMD
-kyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIxMTUsMTE5Mjk2NjQz
-OCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLTEwMTEyODc2NzJdfQ
-==
+eyJoaXN0b3J5IjpbLTE4NTg4MTMxMDcsMTI3MDQ1MDIzMCw4Mj
+I5ODg3NjYsODk4MTEyODI5LDczMDUyOTA2NSwtNTUyMDEyNDU5
+LC04MzU0NTc3OTUsLTc5MzY4MzcxMiwtNDI4MDkyOTE1LC0zNz
+g1MjQ5MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4MzEyNjIx
+MTUsMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEwNjYsLT
+EwMTEyODc2NzJdfQ==
 -->
