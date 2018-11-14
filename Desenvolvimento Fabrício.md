@@ -141,10 +141,14 @@ categoriaInserir
 linkAnuncio
 canal
 textoPergunta
+
+ <div class="item" data-value="1">Pergunta de anúncio</div>
+                                            <div class="item" data-value="2">Correção de anúncio</div>
+                                            <div class="item" data-value="3">Incompatibilidade</div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNTI5MDY1LC01NTIwMTI0NTksLTgzNT
-Q1Nzc5NSwtNzkzNjgzNzEyLC00MjgwOTI5MTUsLTM3ODUyNDkw
-Miw2MzMwOTIzNjAsLTk0OTg0ODg2OSwtMTgzMTI2MjExNSwxMT
-kyOTY2NDM4LDYyNzc2OTA3OCwtMjA5ODI4MTA2NiwtMTAxMTI4
-NzY3Ml19
+eyJoaXN0b3J5IjpbODk4MTEyODI5LDczMDUyOTA2NSwtNTUyMD
+EyNDU5LC04MzU0NTc3OTUsLTc5MzY4MzcxMiwtNDI4MDkyOTE1
+LC0zNzg1MjQ5MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4Mz
+EyNjIxMTUsMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEw
+NjYsLTEwMTEyODc2NzJdfQ==
 -->
