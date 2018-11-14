@@ -134,11 +134,11 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
 - [ ] Banco de dados - trazer para consulta
 
-
+tabelaResultadoPesquisar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU2MTYwNzksODk4MTEyODI5LDczMD
-UyOTA2NSwtNTUyMDEyNDU5LC04MzU0NTc3OTUsLTc5MzY4Mzcx
-MiwtNDI4MDkyOTE1LC0zNzg1MjQ5MDIsNjMzMDkyMzYwLC05ND
-k4NDg4NjksLTE4MzEyNjIxMTUsMTE5Mjk2NjQzOCw2Mjc3Njkw
-NzgsLTIwOTgyODEwNjYsLTEwMTEyODc2NzJdfQ==
+eyJoaXN0b3J5IjpbODIyOTg4NzY2LDg5ODExMjgyOSw3MzA1Mj
+kwNjUsLTU1MjAxMjQ1OSwtODM1NDU3Nzk1LC03OTM2ODM3MTIs
+LTQyODA5MjkxNSwtMzc4NTI0OTAyLDYzMzA5MjM2MCwtOTQ5OD
+Q4ODY5LC0xODMxMjYyMTE1LDExOTI5NjY0MzgsNjI3NzY5MDc4
+LC0yMDk4MjgxMDY2LC0xMDExMjg3NjcyXX0=
 -->
