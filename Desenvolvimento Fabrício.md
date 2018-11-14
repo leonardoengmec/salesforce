@@ -145,10 +145,11 @@ textoPergunta
  <div class="item" data-value="1">Pergunta de anúncio</div>
                                             <div class="item" data-value="2">Correção de anúncio</div>
                                             <div class="item" data-value="3">Incompatibilidade</div>
+                                            Atualmente o espelhamento é compatível até os modelos Android 7.0 e iOS 10.3 que são as ultimas versões de cada sistema.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MTEyODI5LDczMDUyOTA2NSwtNTUyMD
-EyNDU5LC04MzU0NTc3OTUsLTc5MzY4MzcxMiwtNDI4MDkyOTE1
-LC0zNzg1MjQ5MDIsNjMzMDkyMzYwLC05NDk4NDg4NjksLTE4Mz
-EyNjIxMTUsMTE5Mjk2NjQzOCw2Mjc3NjkwNzgsLTIwOTgyODEw
-NjYsLTEwMTEyODc2NzJdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzg4Njc0MjUsODk4MTEyODI5LDczMD
+UyOTA2NSwtNTUyMDEyNDU5LC04MzU0NTc3OTUsLTc5MzY4Mzcx
+MiwtNDI4MDkyOTE1LC0zNzg1MjQ5MDIsNjMzMDkyMzYwLC05ND
+k4NDg4NjksLTE4MzEyNjIxMTUsMTE5Mjk2NjQzOCw2Mjc3Njkw
+NzgsLTIwOTgyODEwNjYsLTEwMTEyODc2NzJdfQ==
 -->
