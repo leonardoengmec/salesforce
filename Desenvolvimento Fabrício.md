@@ -134,18 +134,12 @@ Quando atendimento criar solicitação, criar com o responsável = vendas.
 - [ ] Ao responder a pergunta no portal, a pergunta do ML e LV ser respondida automaticamente.
 - [x] Banco de dados - trazer para consulta
 
-tabelaResultadoPesquisar
 
-textoCopiado
-
-table33
-table33
-x.parentElement.parentElement.children[1]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3Mzc1MjgxLC0xMzkzMDI4OTk3LC0xOD
-U4ODEzMTA3LDEyNzA0NTAyMzAsODIyOTg4NzY2LDg5ODExMjgy
-OSw3MzA1MjkwNjUsLTU1MjAxMjQ1OSwtODM1NDU3Nzk1LC03OT
-M2ODM3MTIsLTQyODA5MjkxNSwtMzc4NTI0OTAyLDYzMzA5MjM2
-MCwtOTQ5ODQ4ODY5LC0xODMxMjYyMTE1LDExOTI5NjY0MzgsNj
-I3NzY5MDc4LC0yMDk4MjgxMDY2LC0xMDExMjg3NjcyXX0=
+eyJoaXN0b3J5IjpbMTI2MTg4MjM3NywtMTM5MzAyODk5NywtMT
+g1ODgxMzEwNywxMjcwNDUwMjMwLDgyMjk4ODc2Niw4OTgxMTI4
+MjksNzMwNTI5MDY1LC01NTIwMTI0NTksLTgzNTQ1Nzc5NSwtNz
+kzNjgzNzEyLC00MjgwOTI5MTUsLTM3ODUyNDkwMiw2MzMwOTIz
+NjAsLTk0OTg0ODg2OSwtMTgzMTI2MjExNSwxMTkyOTY2NDM4LD
+YyNzc2OTA3OCwtMjA5ODI4MTA2NiwtMTAxMTI4NzY3Ml19
 -->
